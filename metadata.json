@@ -1,0 +1,5 @@
+{
+  "name": "GIVD",
+  "description": "Gestionnaire Intelligent de Vie Domestique - Une application néo-minimaliste pour gérer le stock, les tickets et la consommation de votre foyer.",
+  "requestFramePermissions": []
+}
